@@ -10,13 +10,11 @@ The script can be used for any channel or video for scraping, in addition will p
 * Current channels for scrapping the transcript subtitles in English language and translate them to Braille Script
 * based on https://reposcope.com/package/python3-louis and used with python codext dependency 
 
-* Default channel
-* https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g
+* Default channels
 * Web3 Foundation
-
-* Additional List
-* https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg
+* https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g
 * Parity Technologies
+* https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg
 
 * Up to you list:
 * #### :)
