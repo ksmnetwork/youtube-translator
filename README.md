@@ -70,9 +70,7 @@ Codecs categories
 ['ascii', 'base64_codec', 'big5', 'big5hkscs', 'bz2_codec', 'cp037', 'cp273', 'cp424', 'cp437', 'cp500', 'cp775', 'cp850', 'cp852', 'cp855', 'cp857', 'cp858', 'cp860', 'cp861', 'cp862', 'cp863', ...]
 ```
 
-* Current channels for scrapping the transcript subtitles in English language and translate them to Braille Script
-* based on https://reposcope.com/package/python3-louis and used with python codext dependency 
-
+Current channels for scrapping the transcript subtitles in English language and translate them to Braille language
 * Web3 Foundation
 * https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g
 * Parity Technologies
