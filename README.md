@@ -5,7 +5,14 @@ The script can be used for any channel or video for scraping, in addition will p
 usage:
 ```python
 pip install youtube_transcript_api scrapetube codext
-python tube.py
+```
+for default channel 
+```
+python tube.py 
+```
+Custom channel
+```
+python tube.py UCSs5vZi0U7qHLkUjF3QnaWg
 ```
 
 Get all videos for a channel
