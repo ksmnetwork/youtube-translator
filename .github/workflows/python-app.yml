@@ -8,8 +8,6 @@ jobs:
         os: [ubuntu-latest, macos-latest]
         python-version: ['3.6', '3.9']
         exclude:
-          - os: macos-latest
-            python-version: '3.9'
           - os: ubuntu-latest
             python-version: '3.6'
     steps:
