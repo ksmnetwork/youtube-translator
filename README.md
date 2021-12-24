@@ -76,9 +76,16 @@ Current channels for scrapping the transcript subtitles in English language and 
 * Parity Technologies
 * https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg
 
-* Up to you list:
-* :)
+Up to you list, just replace the Youtube channel ID string at :exploding_head:
+```python
+videoListName = scrapetube.get_channel("UClnw_bcNg4CAzF772qEtq4g")
+```
+[YouTube uses automatic speech recognition to add automatic captions to videos. The feature is available in English, Dutch, French, German, Italian, Japanese, Korean, Portuguese, Russian, and Spanish. ASR is not available for all videos.](https://support.google.com/youtube/answer/7296221?hl=en#:~:text=YouTube%20uses%20automatic%20speech%20recognition,not%20available%20for%20all%20videos.)
 
+You can eding the language at :innocent:
+```python
+transcript = transcript_list.find_generated_transcript(['en']).fetch()
+```
 Example output:
 ```
 https://www.youtube.com/watch?v=ouMK-Q9S7cc
