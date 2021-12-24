@@ -96,7 +96,7 @@ Web3 Foundation - The Next Evolution of the Internet - Dr. Gavin Wood
 
 With Git Actions Workflow file for this run as example in real-time
 
-[![Git Actions as example of the output in real-time](https://github.com/ksmnetwork/youtube-translator/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/ksmnetwork/youtube-translator/actions/workflows/python-app.yml)
+[![Git Actions as example of the output in real-time](https://github.com/ksmnetwork/youtube-translator/actions/workflows/python-app.yml/badge.svg)](https://github.com/ksmnetwork/youtube-translator/actions/workflows/python-app.yml)
 
 ```yaml
 name: Git Actions as example of the output in real-time
