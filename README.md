@@ -96,10 +96,10 @@ Web3 Foundation - The Next Evolution of the Internet - Dr. Gavin Wood
 
 With Git Actions Workflow file for this run as example in real-time
 
-[![Git Actions as example of the output in real-time](https://github.com/ksmnetwork/youtube-translator/actions/workflows/python-app.yml/badge.svg)](https://github.com/ksmnetwork/youtube-translator/actions/workflows/python-app.yml)
+available OS's: [ windows-latest, macos-latest, ubuntu-latest ]
 
 ```yaml
-name: Git Actions as example of the output in real-time
+name: Cross-platform matrix
 on: [push]
 jobs:
   build:
