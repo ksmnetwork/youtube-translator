@@ -17,6 +17,10 @@ for video_id in videoListName:
     for i in transcript:
       dscript.append(i['text'])
       message = ' '.join(dscript)
+
+    print(video_id['title']['runs'][0]['text'])
+    print(codext.encode(video_id['title']['runs'][0]['text'], "braille"), '\n')
+
     with open("video-{}.txt".format(video_id['videoId']), 'w', encoding='utf-8') as fd:
       fd.write("https://www.youtube.com/watch?v={}".format(video_id['videoId']))
       fd.write("\n")
