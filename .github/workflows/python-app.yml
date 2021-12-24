@@ -18,5 +18,7 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: ${{ matrix.python-version }}
+      - name: Install dependencies 
+        run: pip install youtube_transcript_api scrapetube codext
       - name: Web3 Foundation videos to braille language 
         run: python tube.py
