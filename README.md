@@ -2,6 +2,8 @@
 
 The script can be used for any channel or video for scraping, in addition will provide you with the option to get any automatic captions. Automatic captions are available in Dutch, English, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Turkish, Vietnamese and more or any, so use it as you wish.
 
+![Workflow](https://github.com/ksmnetwork/youtube-translator/raw/main/Web3_Foundation/Screenshot.png)
+
 usage:
 ```python
 pip install youtube_transcript_api scrapetube codext
