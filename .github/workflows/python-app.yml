@@ -1,4 +1,4 @@
-name: Git Actions as example of the output in real-time
+name: Cross-platform matrix run
 on: [push]
 jobs:
   build:
