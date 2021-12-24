@@ -99,7 +99,7 @@ With Git Actions Workflow file for this run as example in real-time
 available OS's: [ windows-latest, macos-latest, ubuntu-latest ]
 
 ```yaml
-name: Cross-platform matrix
+name: Cross-platform matrix run
 on: [push]
 jobs:
   build:
