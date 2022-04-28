@@ -1,5 +1,5 @@
 name: Cross-platform matrix run
-on: [push]
+on: workflow_dispatch
 jobs:
   build:
     runs-on: ${{ matrix.os }}
